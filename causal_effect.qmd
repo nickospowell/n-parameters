@@ -1,0 +1,6 @@
+---
+title: "N Parameters"
+author: "Nicholas Oliver Silveira Powell"
+format: html
+---
+
